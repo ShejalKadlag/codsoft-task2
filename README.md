@@ -1,2 +1,2 @@
 # codsoft-task2
-Task 2: portfolio website using html and css 
+Task 2:personal portfolio website using html and css 
